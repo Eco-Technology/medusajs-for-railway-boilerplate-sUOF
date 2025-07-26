@@ -10,11 +10,7 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-<<<<<<< HEAD
-            Well done! You have successfully deployed your Medusa store on Railway!
-=======
-            Welcome to the MedusaJS Storefront
->>>>>>> 24269d4 (text changes)
+            Welcome to the MedusaJS Storefront 2.2
           </Heading>
           <Heading
             level="h2"
